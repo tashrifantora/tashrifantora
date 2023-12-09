@@ -1,4 +1,17 @@
-### Hi there 👋
+[![An old rock in the desert](/cover.png "Shiprock, New Mexico by Beau Rogers")]
+
+<!-- Readme Stack Status -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tashrifantora&theme=tokyonight)](https://git.io/streak-stats)
+
+<!-- Icons -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,vscode,figma)](https://skillicons.dev)
+
+
+### Hi I'm Antora 👋
+
+- 👀 I’m a frontend developer...
+- 🌱 I’m currently learning React, MongoDB, and Nodejs ...
+-  ⚡ Goal "Full-Stack Developer"...
 
 <!--
 **tashrifantora/tashrifantora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
